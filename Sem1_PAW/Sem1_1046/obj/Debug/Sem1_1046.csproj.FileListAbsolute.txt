@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Sem1_1046\bin\Debug\Sem1_1046.exe.config
+C:\Users\Administrator\Desktop\Sem1_1046\bin\Debug\Sem1_1046.exe
+C:\Users\Administrator\Desktop\Sem1_1046\bin\Debug\Sem1_1046.pdb
+C:\Users\Administrator\Desktop\Sem1_1046\obj\Debug\Sem1_1046.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sem1_1046\obj\Debug\Sem1_1046.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem1_1046\obj\Debug\Sem1_1046.exe
+C:\Users\Administrator\Desktop\Sem1_1046\obj\Debug\Sem1_1046.pdb
