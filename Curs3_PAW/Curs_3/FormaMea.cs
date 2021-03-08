@@ -4,7 +4,7 @@ using System.Drawing;
 
 namespace Curs_3
 {
-	public class FormaMea : Form
+	/*public class FormaMea : Form
 	{
 		private Button btn1;
 		private TextBox tb1;
@@ -65,5 +65,5 @@ namespace Curs_3
 		{
 			Application.Run(new FormaMea());
 		}
-	}
+	}*/
 }

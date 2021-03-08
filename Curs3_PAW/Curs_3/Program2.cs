@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Curs_3
 {
-    /*//definire clasa de argumente a evenimentului FireAlarm
+    //definire clasa de argumente a evenimentului FireAlarm
     public class FireAlarmEventArgs : EventArgs
     {
         //campuri
@@ -84,5 +84,5 @@ namespace Curs_3
 
             Console.Read();
         }
-    }*/
+    }
 }
