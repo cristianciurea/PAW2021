@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\bin\Debug\Curs_4.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\bin\Debug\Curs_4.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\bin\Debug\Curs_4.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.Form1.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs4_PAW\Curs_4\obj\Debug\Curs_4.pdb
