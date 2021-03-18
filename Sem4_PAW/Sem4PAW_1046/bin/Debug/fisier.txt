@@ -1,0 +1,3 @@
+Persoana cu codul 123 are sexul M varsta 22 numele Gigel si are urmatoarele note 7 8 9 
+Persoana cu codul 456 are sexul F varsta 23 numele Maria si are urmatoarele note 8 9 10 
+

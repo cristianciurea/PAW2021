@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\Sem4PAW_1048\bin\Debug\Sem4PAW_1048.exe.config
+C:\Users\Administrator\Desktop\Sem4PAW_1048\bin\Debug\Sem4PAW_1048.exe
+C:\Users\Administrator\Desktop\Sem4PAW_1048\bin\Debug\Sem4PAW_1048.pdb
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.Form1.resources
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.exe
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem4PAW_1048.pdb
+C:\Users\Administrator\Desktop\Sem4PAW_1048\obj\Debug\Sem3PAW_1048.Form2.resources
