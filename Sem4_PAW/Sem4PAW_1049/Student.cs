@@ -108,6 +108,8 @@ namespace Sem4PAW_1049
             set { if(value>0) varsta = value; }
         }
 
+        public int[] Note { get => note; set => note = value; }
+
         public int this[int index]
         {
             get

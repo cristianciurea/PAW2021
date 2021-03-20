@@ -30,10 +30,12 @@ namespace Sem4PAW_1049
                     char sex = Convert.ToChar(cbSex.Text);
                     int varsta = Convert.ToInt32(tbVarsta.Text);
                     string nume = tbNume.Text;
-                    string[] noteS = tbNote.Text.Split(',');
-                    int[] note = new int[noteS.Length];
-                    for (int i = 0; i < noteS.Length; i++)
-                        note[i] = Convert.ToInt32(noteS[i]);
+                    /* string[] noteS = tbNote.Text.Split(',');
+                     int[] note = new int[noteS.Length];
+                     for (int i = 0; i < noteS.Length; i++)
+                         note[i] = Convert.ToInt32(noteS[i]);*/
+                    int[] note = new int[1];
+                    note[0] = Convert.ToInt32(tbNote.Text);
 
                     Student s = new Student(cod, sex, varsta, nume, note);
                     MessageBox.Show(s.ToString());
@@ -81,6 +83,14 @@ namespace Sem4PAW_1049
                 tbAfisare.Text += s.ToString() + Environment.NewLine;*/
             Form2 frm = new Form2(listaStud);
             frm.ShowDialog();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Student s = listaStud[listaStud.Count - 1];
+            s += Convert.ToInt32(tbNote.Text);
+            MessageBox.Show(s.ToString());
+            tbNote.Clear();
         }
     }
 }

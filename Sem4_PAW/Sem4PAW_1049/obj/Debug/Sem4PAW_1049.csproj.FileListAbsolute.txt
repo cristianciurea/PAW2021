@@ -9,3 +9,14 @@ C:\Users\Administrator\Desktop\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.csproj.CoreCo
 C:\Users\Administrator\Desktop\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.exe
 C:\Users\Administrator\Desktop\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.pdb
 C:\Users\Administrator\Desktop\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.Form2.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\bin\Debug\Sem4PAW_1049.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\bin\Debug\Sem4PAW_1049.exe
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\bin\Debug\Sem4PAW_1049.pdb
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.Form1.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.Form2.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.exe
+C:\Users\Administrator\source\repos\PAW2021\Sem4_PAW\Sem4PAW_1049\obj\Debug\Sem4PAW_1049.pdb
