@@ -9,3 +9,4 @@ C:\Users\Administrator\source\repos\PAW2021\Sem5_PAW\Sem5PAW_1049\obj\Debug\Sem5
 C:\Users\Administrator\source\repos\PAW2021\Sem5_PAW\Sem5PAW_1049\obj\Debug\Sem5PAW_1049.exe
 C:\Users\Administrator\source\repos\PAW2021\Sem5_PAW\Sem5PAW_1049\obj\Debug\Sem5PAW_1049.pdb
 C:\Users\Administrator\source\repos\PAW2021\Sem5_PAW\Sem5PAW_1049\obj\Debug\Sem5PAW_1049.Form2.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem5_PAW\Sem5PAW_1049\obj\Debug\Sem5PAW_1049.Form3.resources

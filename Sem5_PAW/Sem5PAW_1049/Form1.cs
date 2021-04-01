@@ -110,5 +110,15 @@ namespace Sem5PAW_1049
 
             MessageBox.Show("Salvare cu succes!");
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            string[] specializari = { "100 - Chirurg", "200 - medic primar" };
+            for(int i=0;i<specializari.Length;i++)
+                comboBox1.Items.Add(specializari[i]);
+
+            for (int i = 0; i < specializari.Length; i++)
+                listBox1.Items.Add(specializari[i]);
+        }
     }
 }

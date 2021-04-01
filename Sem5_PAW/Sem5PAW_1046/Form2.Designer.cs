@@ -29,6 +29,7 @@ namespace Sem5PAW_1046
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tbSuma = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -46,8 +47,15 @@ namespace Sem5PAW_1046
             this.setariToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procentDobandaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gradIndatorareToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.schimbaCuloareToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnCalcul = new System.Windows.Forms.Button();
+            this.btnAfisare = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // tbSuma
@@ -172,6 +180,7 @@ namespace Sem5PAW_1046
             // 
             // tbRata
             // 
+            this.tbRata.ContextMenuStrip = this.contextMenuStrip1;
             this.tbRata.Location = new System.Drawing.Point(531, 109);
             this.tbRata.Name = "tbRata";
             this.tbRata.ReadOnly = true;
@@ -200,16 +209,54 @@ namespace Sem5PAW_1046
             // procentDobandaToolStripMenuItem
             // 
             this.procentDobandaToolStripMenuItem.Name = "procentDobandaToolStripMenuItem";
-            this.procentDobandaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.procentDobandaToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.procentDobandaToolStripMenuItem.Text = "Procent dobanda";
             this.procentDobandaToolStripMenuItem.Click += new System.EventHandler(this.procentDobandaToolStripMenuItem_Click);
             // 
             // gradIndatorareToolStripMenuItem
             // 
             this.gradIndatorareToolStripMenuItem.Name = "gradIndatorareToolStripMenuItem";
-            this.gradIndatorareToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gradIndatorareToolStripMenuItem.Size = new System.Drawing.Size(165, 22);
             this.gradIndatorareToolStripMenuItem.Text = "Grad indatorare";
             this.gradIndatorareToolStripMenuItem.Click += new System.EventHandler(this.gradIndatorareToolStripMenuItem_Click);
+            // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.schimbaCuloareToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(163, 26);
+            // 
+            // schimbaCuloareToolStripMenuItem
+            // 
+            this.schimbaCuloareToolStripMenuItem.Name = "schimbaCuloareToolStripMenuItem";
+            this.schimbaCuloareToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.schimbaCuloareToolStripMenuItem.Text = "Schimba culoare";
+            this.schimbaCuloareToolStripMenuItem.Click += new System.EventHandler(this.schimbaCuloareToolStripMenuItem_Click);
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // btnCalcul
+            // 
+            this.btnCalcul.Location = new System.Drawing.Point(486, 162);
+            this.btnCalcul.Name = "btnCalcul";
+            this.btnCalcul.Size = new System.Drawing.Size(118, 23);
+            this.btnCalcul.TabIndex = 15;
+            this.btnCalcul.Text = "CALCULEAZA";
+            this.btnCalcul.UseVisualStyleBackColor = true;
+            this.btnCalcul.Click += new System.EventHandler(this.btnCalcul_Click);
+            // 
+            // btnAfisare
+            // 
+            this.btnAfisare.Location = new System.Drawing.Point(486, 239);
+            this.btnAfisare.Name = "btnAfisare";
+            this.btnAfisare.Size = new System.Drawing.Size(118, 23);
+            this.btnAfisare.TabIndex = 16;
+            this.btnAfisare.Text = "AFISARE";
+            this.btnAfisare.UseVisualStyleBackColor = true;
+            this.btnAfisare.Click += new System.EventHandler(this.btnAfisare_Click);
             // 
             // Form2
             // 
@@ -217,6 +264,9 @@ namespace Sem5PAW_1046
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(944, 617);
+            this.ContextMenuStrip = this.contextMenuStrip1;
+            this.Controls.Add(this.btnAfisare);
+            this.Controls.Add(this.btnCalcul);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.tbRata);
             this.Controls.Add(this.groupBox1);
@@ -236,6 +286,8 @@ namespace Sem5PAW_1046
             this.groupBox1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.contextMenuStrip1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -260,5 +312,10 @@ namespace Sem5PAW_1046
         private System.Windows.Forms.ToolStripMenuItem setariToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem procentDobandaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gradIndatorareToolStripMenuItem;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem schimbaCuloareToolStripMenuItem;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Button btnCalcul;
+        private System.Windows.Forms.Button btnAfisare;
     }
 }

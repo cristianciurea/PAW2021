@@ -14,6 +14,8 @@ namespace Sem5PAW_1048
     {
         float procentDobanda = 0.15f;
         float gradIndatorare = 0.7f;
+        List<Credit> listaCredite = new List<Credit>();
+
 
         public Form2()
         {
@@ -59,6 +61,70 @@ namespace Sem5PAW_1048
                     gradIndatorare = 0.7f;
                 MessageBox.Show("Grad indatorare: " + gradIndatorare);
             }
+        }
+
+        private void schimbaCuloareToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ColorDialog dlg = new ColorDialog();
+            if (dlg.ShowDialog() == DialogResult.OK)
+                contextMenuStrip1.SourceControl.BackColor = dlg.Color;
+        }
+
+        private void golesteCasutaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            contextMenuStrip1.SourceControl.Text = "";
+        }
+
+        private void btnCalcul_Click(object sender, EventArgs e)
+        {
+            if (tbSuma.Text == "")
+                errorProvider1.SetError(tbSuma, "Introduceti suma!");
+            else
+                if (tbVenit.Text == "")
+                errorProvider1.SetError(tbVenit, "Introduceti venitul lunar!");
+            else
+                if (tbPerioada.Text == "")
+                errorProvider1.SetError(tbPerioada, "Selectati perioada!");
+            else
+            {
+                try
+                {
+                    int suma = Convert.ToInt32(tbSuma.Text);
+                    int venit = Convert.ToInt32(tbVenit.Text);
+                    int perioada = Convert.ToInt32(tbPerioada.Text);
+
+                    float creditMax = venit * perioada * 12 * (1 + procentDobanda);
+                    if (suma > creditMax)
+                        MessageBox.Show("Suma ceruta e prea mare!");
+                    else
+                    {
+                        float rata = suma / perioada / 12 * (1 + procentDobanda);
+                        tbRata.Text = rata.ToString();
+
+                        Credit c = new Credit(suma, perioada, procentDobanda, rata);
+                        listaCredite.Add(c);
+                    }
+                }
+                catch(Exception ex)
+                {
+                    MessageBox.Show(ex.Message);
+                }
+                finally
+                {
+                    errorProvider1.Clear();
+                }
+            }
+        }
+
+        private void setariToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("setari");
+        }
+
+        private void btnAfisare_Click(object sender, EventArgs e)
+        {
+            Form3 frm = new Form3(listaCredite);
+            frm.ShowDialog();
         }
     }
 }

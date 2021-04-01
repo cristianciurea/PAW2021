@@ -41,6 +41,8 @@ namespace Sem5PAW_1049
             this.tbXAU = new System.Windows.Forms.TextBox();
             this.btnParsare = new System.Windows.Forms.Button();
             this.btnGenerare = new System.Windows.Forms.Button();
+            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.listBox1 = new System.Windows.Forms.ListBox();
             this.SuspendLayout();
             // 
             // tbData
@@ -148,12 +150,30 @@ namespace Sem5PAW_1049
             this.btnGenerare.UseVisualStyleBackColor = true;
             this.btnGenerare.Click += new System.EventHandler(this.btnGenerare_Click);
             // 
+            // comboBox1
+            // 
+            this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Location = new System.Drawing.Point(452, 108);
+            this.comboBox1.Name = "comboBox1";
+            this.comboBox1.Size = new System.Drawing.Size(121, 21);
+            this.comboBox1.TabIndex = 12;
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.Location = new System.Drawing.Point(453, 160);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(120, 95);
+            this.listBox1.TabIndex = 13;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.btnGenerare);
             this.Controls.Add(this.btnParsare);
             this.Controls.Add(this.label5);
@@ -168,6 +188,7 @@ namespace Sem5PAW_1049
             this.Controls.Add(this.tbData);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -187,6 +208,8 @@ namespace Sem5PAW_1049
         private System.Windows.Forms.TextBox tbXAU;
         private System.Windows.Forms.Button btnParsare;
         private System.Windows.Forms.Button btnGenerare;
+        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ListBox listBox1;
     }
 }
 

@@ -29,6 +29,7 @@ namespace Sem5PAW_1049
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.tbSuma = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -46,12 +47,21 @@ namespace Sem5PAW_1049
             this.setariToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procentDobandaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.gradIndatorareToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
+            this.schimbaCuloareToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.golesteCasuteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.btnCalcul = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.btnAfisare = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
+            this.contextMenuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // tbSuma
             // 
+            this.tbSuma.ContextMenuStrip = this.contextMenuStrip1;
             this.tbSuma.Location = new System.Drawing.Point(112, 74);
             this.tbSuma.Name = "tbSuma";
             this.tbSuma.Size = new System.Drawing.Size(100, 20);
@@ -79,6 +89,7 @@ namespace Sem5PAW_1049
             // 
             // tbVenit
             // 
+            this.tbVenit.ContextMenuStrip = this.contextMenuStrip1;
             this.tbVenit.Location = new System.Drawing.Point(112, 128);
             this.tbVenit.Name = "tbVenit";
             this.tbVenit.Size = new System.Drawing.Size(100, 20);
@@ -96,6 +107,7 @@ namespace Sem5PAW_1049
             // 
             // tbPerioada
             // 
+            this.tbPerioada.ContextMenuStrip = this.contextMenuStrip1;
             this.tbPerioada.Location = new System.Drawing.Point(169, 186);
             this.tbPerioada.Name = "tbPerioada";
             this.tbPerioada.Size = new System.Drawing.Size(43, 20);
@@ -172,6 +184,7 @@ namespace Sem5PAW_1049
             // 
             // tbRata
             // 
+            this.tbRata.ContextMenuStrip = this.contextMenuStrip1;
             this.tbRata.Location = new System.Drawing.Point(446, 77);
             this.tbRata.Name = "tbRata";
             this.tbRata.ReadOnly = true;
@@ -211,12 +224,61 @@ namespace Sem5PAW_1049
             this.gradIndatorareToolStripMenuItem.Text = "Grad indatorare";
             this.gradIndatorareToolStripMenuItem.Click += new System.EventHandler(this.gradIndatorareToolStripMenuItem_Click);
             // 
+            // contextMenuStrip1
+            // 
+            this.contextMenuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.schimbaCuloareToolStripMenuItem,
+            this.golesteCasuteToolStripMenuItem});
+            this.contextMenuStrip1.Name = "contextMenuStrip1";
+            this.contextMenuStrip1.Size = new System.Drawing.Size(163, 48);
+            // 
+            // schimbaCuloareToolStripMenuItem
+            // 
+            this.schimbaCuloareToolStripMenuItem.Name = "schimbaCuloareToolStripMenuItem";
+            this.schimbaCuloareToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.schimbaCuloareToolStripMenuItem.Text = "Schimba culoare";
+            this.schimbaCuloareToolStripMenuItem.Click += new System.EventHandler(this.schimbaCuloareToolStripMenuItem_Click);
+            // 
+            // golesteCasuteToolStripMenuItem
+            // 
+            this.golesteCasuteToolStripMenuItem.Name = "golesteCasuteToolStripMenuItem";
+            this.golesteCasuteToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
+            this.golesteCasuteToolStripMenuItem.Text = "Goleste casuta";
+            this.golesteCasuteToolStripMenuItem.Click += new System.EventHandler(this.golesteCasuteToolStripMenuItem_Click);
+            // 
+            // btnCalcul
+            // 
+            this.btnCalcul.Location = new System.Drawing.Point(446, 142);
+            this.btnCalcul.Name = "btnCalcul";
+            this.btnCalcul.Size = new System.Drawing.Size(100, 23);
+            this.btnCalcul.TabIndex = 15;
+            this.btnCalcul.Text = "CALCULEAZA";
+            this.btnCalcul.UseVisualStyleBackColor = true;
+            this.btnCalcul.Click += new System.EventHandler(this.btnCalcul_Click);
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // btnAfisare
+            // 
+            this.btnAfisare.Location = new System.Drawing.Point(446, 216);
+            this.btnAfisare.Name = "btnAfisare";
+            this.btnAfisare.Size = new System.Drawing.Size(100, 23);
+            this.btnAfisare.TabIndex = 16;
+            this.btnAfisare.Text = "AFISARE";
+            this.btnAfisare.UseVisualStyleBackColor = true;
+            this.btnAfisare.Click += new System.EventHandler(this.btnAfisare_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ContextMenuStrip = this.contextMenuStrip1;
+            this.Controls.Add(this.btnAfisare);
+            this.Controls.Add(this.btnCalcul);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.tbRata);
             this.Controls.Add(this.groupBox1);
@@ -236,6 +298,8 @@ namespace Sem5PAW_1049
             this.groupBox1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.contextMenuStrip1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -260,5 +324,11 @@ namespace Sem5PAW_1049
         private System.Windows.Forms.ToolStripMenuItem setariToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem procentDobandaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem gradIndatorareToolStripMenuItem;
+        private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem schimbaCuloareToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem golesteCasuteToolStripMenuItem;
+        private System.Windows.Forms.Button btnCalcul;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Button btnAfisare;
     }
 }
