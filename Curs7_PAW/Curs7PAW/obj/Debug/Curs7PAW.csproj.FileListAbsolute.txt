@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Curs7PAW\bin\Debug\Curs7PAW.exe.config
+C:\Users\Administrator\Desktop\Curs7PAW\bin\Debug\Curs7PAW.exe
+C:\Users\Administrator\Desktop\Curs7PAW\bin\Debug\Curs7PAW.pdb
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.Form1.resources
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.exe
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.pdb
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.Form2.resources
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.Form3.resources
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.ListView.resources
+C:\Users\Administrator\Desktop\Curs7PAW\obj\Debug\Curs7PAW.TreeView.resources
