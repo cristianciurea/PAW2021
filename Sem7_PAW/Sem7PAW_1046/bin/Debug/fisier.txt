@@ -1,0 +1,3 @@
+500,Mirel,9
+600,Vasile,8
+700,Georgel,4

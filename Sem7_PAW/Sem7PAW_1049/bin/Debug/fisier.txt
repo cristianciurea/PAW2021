@@ -1,0 +1,4 @@
+100,Gigel,9
+200,Dorel,10
+300,Maricica,8
+500,Vasile,7

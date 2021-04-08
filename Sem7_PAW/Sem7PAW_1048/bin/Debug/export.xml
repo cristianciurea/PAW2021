@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Studenti>
+  <100-Dorel-9>
+    <promovat />
+  </100-Dorel-9>
+  <200-Ionel-8>
+    <promovat />
+  </200-Ionel-8>
+  <300-Maricica-9>
+    <promovat />
+  </300-Maricica-9>
+  <400-Vasile-10>
+    <promovat />
+  </400-Vasile-10>
+  <500-Georgel-4>
+    <nepromovat />
+  </500-Georgel-4>
+</Studenti>
