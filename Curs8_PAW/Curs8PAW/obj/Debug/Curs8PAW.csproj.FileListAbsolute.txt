@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Curs8PAW\bin\Debug\Curs8PAW.exe.config
+C:\Users\Administrator\Desktop\Curs8PAW\bin\Debug\Curs8PAW.exe
+C:\Users\Administrator\Desktop\Curs8PAW\bin\Debug\Curs8PAW.pdb
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.Form1.resources
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.exe
+C:\Users\Administrator\Desktop\Curs8PAW\obj\Debug\Curs8PAW.pdb
