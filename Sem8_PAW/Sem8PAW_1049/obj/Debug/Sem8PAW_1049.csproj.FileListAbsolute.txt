@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\bin\Debug\Sem8PAW_1049.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\bin\Debug\Sem8PAW_1049.exe
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\bin\Debug\Sem8PAW_1049.pdb
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.Form1.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.exe
+C:\Users\Administrator\source\repos\PAW2021\Sem8_PAW\Sem8PAW_1049\obj\Debug\Sem8PAW_1049.pdb
