@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\bin\Debug\Curs10PAW.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\bin\Debug\Curs10PAW.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\bin\Debug\Curs10PAW.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.Form1.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs10_PAW\Curs10PAW\obj\Debug\Curs10PAW.Form2.resources
