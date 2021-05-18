@@ -1,0 +1,16 @@
+C:\Users\Administrator\Desktop\SQLite\obj\Debug\SQLite.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SQLite\obj\Debug\SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\SQLite.exe.config
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\SQLite.exe
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\SQLite.pdb
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\SQLite\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\SQLite\obj\Debug\SQLite.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SQLite\obj\Debug\SQLite.exe
+C:\Users\Administrator\Desktop\SQLite\obj\Debug\SQLite.pdb
