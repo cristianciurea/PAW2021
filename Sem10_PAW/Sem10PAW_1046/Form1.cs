@@ -68,7 +68,7 @@ namespace Sem10PAW_1046
                     if (itm.Checked)
                     {
                         int cod = Convert.ToInt32(itm.SubItems[0].Text);
-                        comanda.CommandText = "UPDATE studenti SET forma='ZI' WHERE cod=" + cod;
+                        comanda.CommandText = "UPDATE studenti SET forma='"+comboBox1.Text+"' WHERE cod=" + cod;
                         comanda.ExecuteNonQuery();
                     }
             }
@@ -114,6 +114,11 @@ namespace Sem10PAW_1046
         {
             Form2 frm = new Form2();
             frm.ShowDialog();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

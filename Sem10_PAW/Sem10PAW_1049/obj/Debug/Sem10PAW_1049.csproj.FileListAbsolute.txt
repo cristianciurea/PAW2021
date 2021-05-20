@@ -29,3 +29,7 @@ C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\Sy
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\System.Memory.xml
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\obj\Debug\Sem10PAW_1049.Form3.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\obj\Debug\Sem10PAW_1049.DataOra.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\ListaTari_1049.dll
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1049\bin\Debug\ListaTari_1049.pdb

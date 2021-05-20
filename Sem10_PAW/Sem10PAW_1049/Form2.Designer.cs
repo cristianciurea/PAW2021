@@ -38,56 +38,64 @@ namespace Sem10PAW_1049
             this.label4 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.dataOra1 = new Sem10PAW_1049.DataOra();
+            this.userControl11 = new ListaTari_1049.UserControl1();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(89, 63);
+            this.label1.Location = new System.Drawing.Point(119, 78);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(44, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Nume";
             // 
             // tbNume
             // 
-            this.tbNume.Location = new System.Drawing.Point(161, 60);
+            this.tbNume.Location = new System.Drawing.Point(215, 74);
+            this.tbNume.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbNume.Name = "tbNume";
-            this.tbNume.Size = new System.Drawing.Size(100, 20);
+            this.tbNume.Size = new System.Drawing.Size(132, 22);
             this.tbNume.TabIndex = 1;
             // 
             // tbVarsta
             // 
-            this.tbVarsta.Location = new System.Drawing.Point(161, 113);
+            this.tbVarsta.Location = new System.Drawing.Point(215, 139);
+            this.tbVarsta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbVarsta.Name = "tbVarsta";
-            this.tbVarsta.Size = new System.Drawing.Size(100, 20);
+            this.tbVarsta.Size = new System.Drawing.Size(132, 22);
             this.tbVarsta.TabIndex = 3;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(89, 116);
+            this.label2.Location = new System.Drawing.Point(119, 143);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(37, 13);
+            this.label2.Size = new System.Drawing.Size(47, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Varsta";
             // 
             // tbNota
             // 
-            this.tbNota.Location = new System.Drawing.Point(161, 162);
+            this.tbNota.Location = new System.Drawing.Point(215, 199);
+            this.tbNota.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbNota.Name = "tbNota";
-            this.tbNota.Size = new System.Drawing.Size(100, 20);
+            this.tbNota.Size = new System.Drawing.Size(132, 22);
             this.tbNota.TabIndex = 5;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(89, 165);
+            this.label3.Location = new System.Drawing.Point(119, 203);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(30, 13);
+            this.label3.Size = new System.Drawing.Size(37, 16);
             this.label3.TabIndex = 4;
             this.label3.Text = "Nota";
             // 
@@ -95,9 +103,10 @@ namespace Sem10PAW_1049
             // 
             this.label4.AutoSize = true;
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(89, 213);
+            this.label4.Location = new System.Drawing.Point(119, 262);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(36, 13);
+            this.label4.Size = new System.Drawing.Size(47, 16);
             this.label4.TabIndex = 6;
             this.label4.Text = "Forma";
             // 
@@ -107,27 +116,47 @@ namespace Sem10PAW_1049
             this.comboBox1.Items.AddRange(new object[] {
             "ZI",
             "ID"});
-            this.comboBox1.Location = new System.Drawing.Point(161, 213);
+            this.comboBox1.Location = new System.Drawing.Point(215, 262);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(100, 21);
+            this.comboBox1.Size = new System.Drawing.Size(132, 24);
             this.comboBox1.TabIndex = 7;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(145, 303);
+            this.button1.Location = new System.Drawing.Point(193, 373);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.Size = new System.Drawing.Size(100, 28);
             this.button1.TabIndex = 8;
             this.button1.Text = "INSERT";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // dataOra1
+            // 
+            this.dataOra1.Location = new System.Drawing.Point(14, 450);
+            this.dataOra1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
+            this.dataOra1.Name = "dataOra1";
+            this.dataOra1.Size = new System.Drawing.Size(373, 63);
+            this.dataOra1.TabIndex = 9;
+            // 
+            // userControl11
+            // 
+            this.userControl11.Location = new System.Drawing.Point(108, 544);
+            this.userControl11.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.userControl11.Name = "userControl11";
+            this.userControl11.Size = new System.Drawing.Size(296, 69);
+            this.userControl11.TabIndex = 10;
+            // 
             // Form2
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
-            this.ClientSize = new System.Drawing.Size(437, 450);
+            this.ClientSize = new System.Drawing.Size(583, 626);
+            this.Controls.Add(this.userControl11);
+            this.Controls.Add(this.dataOra1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
             this.Controls.Add(this.label4);
@@ -137,6 +166,7 @@ namespace Sem10PAW_1049
             this.Controls.Add(this.label2);
             this.Controls.Add(this.tbNume);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form2";
             this.Text = "Form2";
             this.ResumeLayout(false);
@@ -155,5 +185,7 @@ namespace Sem10PAW_1049
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button1;
+        private DataOra dataOra1;
+        private ListaTari_1049.UserControl1 userControl11;
     }
 }

@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\bin\Debug\ListaTari_1046.dll
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\bin\Debug\ListaTari_1046.pdb
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.UserControl1.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.dll
+C:\Users\Administrator\source\repos\PAW2021\Sem11_PAW\ListaTari_1046\obj\Debug\ListaTari_1046.pdb

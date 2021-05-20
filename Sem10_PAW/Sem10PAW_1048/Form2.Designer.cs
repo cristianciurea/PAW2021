@@ -38,6 +38,7 @@ namespace Sem10PAW_1048
             this.label4 = new System.Windows.Forms.Label();
             this.cbForma = new System.Windows.Forms.ComboBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.dataOra1 = new Sem10PAW_1048.DataOra();
             this.SuspendLayout();
             // 
             // label1
@@ -122,12 +123,20 @@ namespace Sem10PAW_1048
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // dataOra1
+            // 
+            this.dataOra1.Location = new System.Drawing.Point(86, 354);
+            this.dataOra1.Name = "dataOra1";
+            this.dataOra1.Size = new System.Drawing.Size(217, 49);
+            this.dataOra1.TabIndex = 9;
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(387, 426);
+            this.Controls.Add(this.dataOra1);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.cbForma);
             this.Controls.Add(this.label4);
@@ -155,5 +164,6 @@ namespace Sem10PAW_1048
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.ComboBox cbForma;
         private System.Windows.Forms.Button button1;
+        private DataOra dataOra1;
     }
 }

@@ -1,7 +1,6 @@
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\bin\Debug\Sem10PAW_1046.exe.config
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\bin\Debug\Sem10PAW_1046.exe
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\bin\Debug\Sem10PAW_1046.pdb
-C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.csprojAssemblyReference.cache
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.Form1.resources
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.Properties.Resources.resources
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.csproj.GenerateResource.cache
@@ -9,3 +8,9 @@ C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Se
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.exe
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.pdb
 C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.Form2.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.Form3.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.DataOra.resources
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\bin\Debug\ListaTari_1046.dll
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\bin\Debug\ListaTari_1046.pdb
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Sem10_PAW\Sem10PAW_1046\obj\Debug\Sem10PAW_1046.csproj.CopyComplete
